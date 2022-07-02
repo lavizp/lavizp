@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laviz Pandey</h1>
 <h3 align="center">I make games.</h3>
 
-- 🌱 I’m currently learning **everything I see🤣**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Unity, Game Design**
 
