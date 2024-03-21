@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Software Engineer</h3>
 
 
-- 🔭 I’m currently working on [Booksgasm Nepal](https://github.com/lavizp/BooksgasmNepalWebsite)
+- 🔭 I’m currently learning Nest JS
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications**
 
