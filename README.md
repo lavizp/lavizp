@@ -1,31 +1,23 @@
-<h1 align="center">Hi 👋, I'm Laviz Pandey</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
+<h2> Hi, I'm Laviz Pandey! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l5OTU1c3RuNWc0OGdkaXZlc3JsNGd3bmQ2c2lpY2cycHBmMmUzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmFrZzVpeTBtMjJrZHpuaHdndzhzMXA3MWw3NzRtYjl4MmEydHFsNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
+<p><em>Software Enginner <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGN0Y3lzdW1peXRzczY5M2d0YnM0N3U5amt3NWZmMXphbGFrdGFwYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" width="30"></p>
+
+[![Linkedin: Laviz Pandey](https://img.shields.io/badge/-lavizp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laviz-pandey-4b8b55208//)](https://www.linkedin.com/in/laviz-pandey-4b8b55208/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/lavizp?label=follow&style=social)](https://github.com/lavizp)
 
 
-- 🔭 I’m currently learning Django Rest Frameword
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJtOW92dzVhemJ5ZDdsYm5zbTh2aGc5ZWhlbmFpNnozYXhoNW96NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="50"> A little more about me...  
 
-- 👯 I’m looking to collaborate on **Full Stack Web Applications**
+```javascript
+const lavizp = {
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Tanstack, Node, Next, Fasy API, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+ challenge: "I am building cool AI projects"
+}
+```
 
-- 👨‍💻 All of my projects are available at [https://www.lavizpandey.com.np/](https://www.lavizpandey.com.np/)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxja3o1aW52dTBzOXUyeDgydTJiZTBqNTZrdTQ3bWN3dXNncjgzYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="60"> <em><b>
+Software Engineer- Typescript | Web</b> :)</em>
 
-- 💬 Ask me about **Software Engineering**
-
-- 📫 How to reach me **pandeylaviz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/lavizp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lavizp" height="30" width="40" /></a>
-<a href="https://twitter.com/lavizpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavizpandey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/laviz-pandey-4b8b55208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laviz-pandey-4b8b55208/" height="30" width="40" /></a>
-<a href="https://medium.com/@lavizp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lavizp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pandeylaviz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pandeylaviz" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavizp&show_icons=true&theme=dark&locale=en" alt="lavizp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavizp&theme=dark" alt="lavizp" /></p>
-
+---
