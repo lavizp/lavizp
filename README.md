@@ -18,6 +18,6 @@ const lavizp = {
 ```
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxja3o1aW52dTBzOXUyeDgydTJiZTBqNTZrdTQ3bWN3dXNncjgzYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="60"> <em><b>
-Software Engineer- Typescript | Web</b> :)</em>
+Software Engineer- Typescript | Web</b></em>
 
 ---
