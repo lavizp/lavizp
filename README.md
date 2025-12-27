@@ -21,3 +21,4 @@ const lavizp = {
 Software Engineer- Typescript | Web</b></em>
 
 ---
+[![npm version](https://img.shields.io/npm/v/dependency-visualiser)](https://www.npmjs.com/package/dependency-visualiser)
