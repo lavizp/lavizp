@@ -22,4 +22,4 @@ Software Engineer- Typescript | Web</b></em>
 
 ---
 Check out Dependency Visualiser in npm:<br>
-[![npm version](https://img.shields.io/npm/v/dependency-visualiser)](https://www.npmjs.com/package/dependency-visualiser)
+![npm](https://img.shields.io/npm/dt/dependency-visualiser)
