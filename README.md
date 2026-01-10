@@ -11,7 +11,7 @@
 ```javascript
 const lavizp = {
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Tanstack, Node, Next, Fasy API, Jest, Docker],
+  tools: [React, Tanstack, Node, Next, Fast API, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
  challenge: "I am building cool AI projects"
 }
