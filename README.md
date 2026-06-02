@@ -21,5 +21,5 @@ const lavizp = {
 Software Engineer - Typescript | Web</b></em>
 
 ---
-Check out Dependency Visualiser in npm:<br>
-[![npm](https://img.shields.io/npm/dt/dependency-visualiser)](https://www.npmjs.com/package/dependency-visualiser)
+Check out StoryMark in npm:<br>
+[![npm](https://img.shields.io/npm/dt/@lavizp/storymark)](https://www.npmjs.com/package/@lavizp/storymark)
